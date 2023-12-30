@@ -1,0 +1,22 @@
+{
+  "name": "ExtendedButtons",
+  "description": "Utility for using ButtonClass of M5Unified",
+  "keywords": "M5Stack, M5Unified",
+  "authors": {
+    "name": "hollyhockberry",
+    "url": "https://github.com/hollyhockberry",
+    "maintainer": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hollyhockberry/ExtendedButtons.git"
+  },
+  "version": "0.0.1",
+  "headers": "ExtendedButtons.h",
+  "license": "MIT",
+  "platforms": "espressif32",
+  "frameworks": "arduino",
+  "dependencies": {
+    "m5stack/M5Unified": "^0.1.10"
+  }
+}
